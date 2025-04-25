@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+/* @custom-variant dark (&:is(.dark *)); */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Playfair+Display:wght@700&display=swap');
+
+/* Or system fonts fallback */
+:root {
+  --font-didot: "Didot", serif;
+  --font-garamond: "Garamond", serif;
+  --font-futura: "Futura", "Trebuchet MS", Arial, sans-serif;
+}
